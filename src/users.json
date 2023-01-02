@@ -1,0 +1,74 @@
+[
+  {
+    "img": "john-smith.jpg",
+    "name": "John Smith",
+    "role": "Graphics designer",
+    "liveLocation": "Riviera State 32/106",
+    "address1": "795 Folsom Ave, Suite 600",
+    "address2": "San Francisco, CA 94107",
+    "phone": "(123) 456-7090"
+  },
+  {
+    "img": "alex jonathan.jpg",
+    "name": "Alex Johnatan",
+    "role": "CEO",
+    "liveLocation": " Riviera State 32/106",
+    "address1": "795 Folsom Ave, Suite 600",
+    "address2": "San Francisco, CA 94107",
+    "phone": "(123) 456-2120"
+  },
+  {
+    "img": "monica smith.jpg",
+    "name": "Monica Smith",
+    "role": "Marketing manager",
+    "liveLocation": " Riviera State 32/106",
+    "address1": "795 Folsom Ave, Suite 600",
+    "address2": "San Francisco, CA 94107",
+    "phone": "(123) 456-1110"
+  },
+  {
+    "img": "michael zimber.jpg",
+    "name": "Michael Zimber",
+    "role": "Sales manager",
+    "liveLocation": " Riviera State 32/106",
+    "address1": "795 Folsom Ave, Suite 600",
+    "address2": "San Francisco, CA 94107",
+    "phone": "(123) 456-7810"
+  },
+  {
+    "img": "sandra smith.jpg",
+    "name": "Sandra Smith",
+    "role": "Graphics designer",
+    "liveLocation": " Riviera State 32/106",
+    "address1": "795 Folsom Ave, Suite 600",
+    "address2": "San Francisco, CA 94107",
+    "phone": "(123) 456-7320"
+  },
+  {
+    "img": "janeth carton.jpg",
+    "name": "Janet Carton",
+    "role": "Graphics designer",
+    "liveLocation": " Riviera State 32/106",
+    "address1": "795 Folsom Ave, Suite 600",
+    "address2": "San Francisco, CA 94107",
+    "phone": "(123) 456-2890"
+  },
+  {
+    "img": "alex jonathan.jpg",
+    "name": "Alex Johnatan",
+    "role": "CEO",
+    "liveLocation": " Riviera State 32/106",
+    "address1": "795 Folsom Ave, Suite 600",
+    "address2": "San Francisco, CA 94107",
+    "phone": "(123) 455-7890"
+  },
+  {
+    "img": "john-smith.jpg",
+    "name": "John Smith",
+    "role": "Graphics designer",
+    "liveLocation": " Riviera State 32/106",
+    "address1": "795 Folsom Ave, Suite 600",
+    "address2": "San Francisco, CA 94107",
+    "phone": "(123) 416-7890"
+  }
+]
